@@ -1,0 +1,17 @@
+{
+  "name": "travis-ci",
+  "version": "1.0.0",
+  "description": "learning travis-ci",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "author": "Anthony Langford",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "express": "^4.16.4",
+    "mocha": "^5.2.0"
+  }
+}
